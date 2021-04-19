@@ -48,5 +48,5 @@ Structure:
 
 The project is written in VHDL using Xilinx Vivado® Design Suite and runs on an Artix7-Basys3 FPGA.
 
-*Tallinn - Barcelona - Manresa* 
+*Tallinn - Barcelona - Manresa*  
 *March 2019*

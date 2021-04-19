@@ -1,9 +1,11 @@
 # Implementation and verification of a hardware-based controller for a three-phase induction motor on an FPGA
 
 ## Abstract
+
 The aim of this thesis is to study the main techniques of motor control in order to implement and design a hardware-based controller for a three-phase induction motor, developed in VHDL language and running on an Artix-7 FPGA (Xilinx). This controller is based on variable-frequency drive techniques. The modules that define this controller's hardware description run concurrently to each other, and they allow the motor to have a better time response and they also improve its performance compared to a microcontroller. This thesis is related to digital systems, power electronics and control systems.
 
 ## Contents
+
 ```
 1 Introduction . . . . . . . . . . . . . . . . . . 2
 2 Motivation . . . . . . . . . . . . . . . . . . . 4
@@ -29,10 +31,8 @@ The aim of this thesis is to study the main techniques of motor control in order
 **Check the source code**  
 On [GitHub](https://github.com/marcelcases/bachelor-thesis)
 
+## Code
 
-
-
-## Code of the hardware description
 In this repo you can check out the code that was described for the thesis.
 
 Structure:
@@ -48,5 +48,5 @@ Structure:
 
 The project is written in VHDL using Xilinx Vivado® Design Suite and runs on an Artix7-Basys3 FPGA.
 
-Tallinn - Barcelona - Manresa  
-March 2019
+*Tallinn - Barcelona - Manresa* 
+*March 2019*
